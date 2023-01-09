@@ -6,12 +6,10 @@ The second attack mode is the PKMID ClientLess Attack, which focuses its attenti
 The tool has 2 parameters, on the one hand the parameter '-a' to specify the attack mode (Handshake|PKMID) and on the other hand the parameter -n to specify the name of the network card.
 In any case, the tool has a help panel after its execution:
 
-┌─[root@parrot]─[/home/Abhi/Desktop/Airfii]
-└──╼ #./Airfii.sh 
+# Commands
+./Airfii.sh 
 
-[*] Uso: ./Airfii.sh
-
-        a) attack mode
+        a) Attack mode
                 Handshake
                 PKMID
         n) Network card name

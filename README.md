@@ -4,9 +4,11 @@ The Airfii tool has 2 attack modes. The first of these is the Handshake attack, 
 The second attack mode is the PKMID ClientLess Attack, which focuses its attention on wireless networks that do not have associated clients (Modern Method).
 # How is the tool executed?
 The tool has 2 parameters, on the one hand the parameter '-a' to specify the attack mode (Handshake|PKMID) and on the other hand the parameter -n to specify the name of the network card.
+
 In any case, the tool has a help panel after its execution:
 
 # Commands
+
 ./Airfii.sh 
 
         a) Attack mode
